@@ -1,4 +1,7 @@
 /** @type {import('next').NextConfig} */
+const isProd = process.env.NODE_ENV === 'production'
+const repo = 'cs180-project-2'
+
 const nextConfig = {
   eslint: {
     ignoreDuringBuilds: true,
@@ -9,6 +12,10 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  basePath: isProd ? `/${repo}` : '',
+  assetPrefix: isProd ? `/${repo}/` : '',
+  output: 'export',
+  trailingSlash: true,
 }
 
 export default nextConfig
