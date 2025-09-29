@@ -1,0 +1,56 @@
+index,title,filename,path,width,height,channels
+1,Box Filter - SciPy convolve2d,01_Box_Filter_-_SciPy_convolve2d.jpg,output/01_Box_Filter_-_SciPy_convolve2d.jpg,1170,1559,1
+2,Box Filter - naive2,02_Box_Filter_-_naive2.jpg,output/02_Box_Filter_-_naive2.jpg,1170,1559,1
+3,Dx Filter - SciPy convolve2d,03_Dx_Filter_-_SciPy_convolve2d.jpg,output/03_Dx_Filter_-_SciPy_convolve2d.jpg,1170,1559,1
+4,Dx Filter - naive2,04_Dx_Filter_-_naive2.jpg,output/04_Dx_Filter_-_naive2.jpg,1170,1559,1
+5,Dy Filter - SciPy convolve2d,05_Dy_Filter_-_SciPy_convolve2d.jpg,output/05_Dy_Filter_-_SciPy_convolve2d.jpg,1170,1559,1
+6,Dy Filter - naive2,06_Dy_Filter_-_naive2.jpg,output/06_Dy_Filter_-_naive2.jpg,1170,1559,1
+7,Cameraman - Original,07_Cameraman_-_Original.jpg,output/07_Cameraman_-_Original.jpg,540,542,1
+8,Dx filter - Cameraman,08_Dx_filter_-_Cameraman.jpg,output/08_Dx_filter_-_Cameraman.jpg,540,542,1
+9,Dy filter - Cameraman,09_Dy_filter_-_Cameraman.jpg,output/09_Dy_filter_-_Cameraman.jpg,540,542,1
+10,Cameraman - gradient,10_Cameraman_-_gradient.jpg,output/10_Cameraman_-_gradient.jpg,540,542,1
+11,Cameraman - binarized,11_Cameraman_-_binarized.jpg,output/11_Cameraman_-_binarized.jpg,540,542,1
+12,G_dx,12_G_dx.jpg,output/12_G_dx.jpg,15,15,1
+13,G_dy,13_G_dy.jpg,output/13_G_dy.jpg,15,15,1
+14,dI/dx (DoG - CameraMan),14_dIdx_(DoG_-_CameraMan).jpg,output/14_dIdx_(DoG_-_CameraMan).jpg,540,542,1
+15,dI/dy (DoG - CameraMan),15_dIdy_(DoG_-_CameraMan).jpg,output/15_dIdy_(DoG_-_CameraMan).jpg,540,542,1
+16,DoG Gradient (binarized),16_DoG_Gradient_(binarized).jpg,output/16_DoG_Gradient_(binarized).jpg,540,542,1
+17,Brian Eiffel Tower - Original,17_Brian_Eiffel_Tower_-_Original.jpg,output/17_Brian_Eiffel_Tower_-_Original.jpg,1170,1559,3
+18,Brian Eiffel Tower - Sharpened,18_Brian_Eiffel_Tower_-_Sharpened.jpg,output/18_Brian_Eiffel_Tower_-_Sharpened.jpg,1170,1559,3
+19,Taj - Original,19_Taj_-_Original.jpg,output/19_Taj_-_Original.jpg,300,300,3
+20,Taj - Blurred,20_Taj_-_Blurred.jpg,output/20_Taj_-_Blurred.jpg,300,300,3
+21,Taj - High Frequency Magnitude,21_Taj_-_High_Frequency_Magnitude.jpg,output/21_Taj_-_High_Frequency_Magnitude.jpg,300,300,3
+22,Taj - Sharped (α=10.0),22_Taj_-_Sharped_(α10.0).jpg,output/22_Taj_-_Sharped_(α10.0).jpg,300,300,3
+23,Derek (Low) - Original,23_Derek_(Low)_-_Original.jpg,output/23_Derek_(Low)_-_Original.jpg,732,1024,3
+24,Nutmeg (High) - Original,24_Nutmeg_(High)_-_Original.jpg,output/24_Nutmeg_(High)_-_Original.jpg,1408,1056,3
+25,Derek (LP Source) - Aligned,25_Derek_(LP_Source)_-_Aligned.jpg,output/25_Derek_(LP_Source)_-_Aligned.jpg,751,1284,3
+26,Nutmeg (HP Source) - Aligned,26_Nutmeg_(HP_Source)_-_Aligned.jpg,output/26_Nutmeg_(HP_Source)_-_Aligned.jpg,751,1284,3
+27,Low-pass(I₁),27_Low-pass(I).jpg,output/27_Low-pass(I).jpg,751,1284,3
+28,High-pass(I₂),28_High-pass(I).jpg,output/28_High-pass(I).jpg,751,1284,3
+29,Hybrid: Derek + Nutmeg,29_Hybrid_Derek_+_Nutmeg.jpg,output/29_Hybrid_Derek_+_Nutmeg.jpg,751,1284,3
+30,FFT log |I₁|,30_FFT_log_I.jpg,output/30_FFT_log_I.jpg,751,1284,1
+31,FFT log |I₂|,31_FFT_log_I.jpg,output/31_FFT_log_I.jpg,751,1284,1
+32,FFT log |LP(I₁)|,32_FFT_log_LP(I).jpg,output/32_FFT_log_LP(I).jpg,751,1284,1
+33,FFT log |HP(I₂)|,33_FFT_log_HP(I).jpg,output/33_FFT_log_HP(I).jpg,751,1284,1
+34,FFT log |Hybrid|,34_FFT_log_Hybrid.jpg,output/34_FFT_log_Hybrid.jpg,751,1284,1
+35,Brian Selfie,35_Brian_Selfie.jpg,output/35_Brian_Selfie.jpg,816,1089,3
+36,Dog,36_Dog.jpg,output/36_Dog.jpg,1100,825,3
+37,Hybrid: Brian Selfie + Dog,37_Hybrid_Brian_Selfie_+_Dog.jpg,output/37_Hybrid_Brian_Selfie_+_Dog.jpg,879,1139,3
+38,Kitten,38_Kitten.jpg,output/38_Kitten.jpg,410,361,3
+39,Puppy,39_Puppy.jpg,output/39_Puppy.jpg,410,361,3
+40,Hybrid: Kitten + Puppy,40_Hybrid_Kitten_+_Puppy.jpg,output/40_Hybrid_Kitten_+_Puppy.jpg,373,351,3
+41,Apple at level 0,41_Apple_at_level_0.jpg,output/41_Apple_at_level_0.jpg,300,300,3
+42,Apple at level 2,42_Apple_at_level_2.jpg,output/42_Apple_at_level_2.jpg,300,300,3
+43,Apple at level 4,43_Apple_at_level_4.jpg,output/43_Apple_at_level_4.jpg,300,300,3
+44,Orange at level 0,44_Orange_at_level_0.jpg,output/44_Orange_at_level_0.jpg,300,300,3
+45,Orange at level 2,45_Orange_at_level_2.jpg,output/45_Orange_at_level_2.jpg,300,300,3
+46,Orange at level 4,46_Orange_at_level_4.jpg,output/46_Orange_at_level_4.jpg,300,300,3
+47,Sum at level 0,47_Sum_at_level_0.jpg,output/47_Sum_at_level_0.jpg,300,300,3
+48,Sum at level 2,48_Sum_at_level_2.jpg,output/48_Sum_at_level_2.jpg,300,300,3
+49,Sum at level 4,49_Sum_at_level_4.jpg,output/49_Sum_at_level_4.jpg,300,300,3
+50,Apple,50_Apple.jpg,output/50_Apple.jpg,300,300,3
+51,Orange,51_Orange.jpg,output/51_Orange.jpg,300,300,3
+52,Oraple,52_Oraple.jpg,output/52_Oraple.jpg,300,300,3
+53,Kitpup: Kitten + Puppy Blend,53_Kitpup_Kitten_+_Puppy_Blend.jpg,output/53_Kitpup_Kitten_+_Puppy_Blend.jpg,410,361,3
+54,Labubu,54_Labubu.jpg,output/54_Labubu.jpg,410,361,3
+55,Labukitty: Labubu + Kitten Blend,55_Labukitty_Labubu_+_Kitten_Blend.jpg,output/55_Labukitty_Labubu_+_Kitten_Blend.jpg,410,361,3
