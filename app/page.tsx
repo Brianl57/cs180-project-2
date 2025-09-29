@@ -131,7 +131,7 @@ export default function CS180ProjectPage() {
                   <div className="flex justify-center">
                     <div className="text-center">
                       <img
-                        src="/17_Brian_Eiffel_Tower_-_Original.jpg"
+                        src="17_Brian_Eiffel_Tower_-_Original.jpg"
                         alt="Brian Eiffel Tower - Original"
                         className="w-64 h-80 object-cover mb-2"
                       />
@@ -234,7 +234,7 @@ def convolve_naive2(img, kernel):
                       {/* Box Filter Row */}
                       <div className="text-center">
                         <img
-                          src="/01_Box_Filter_-_SciPy_convolve2d.jpg"
+                          src="01_Box_Filter_-_SciPy_convolve2d.jpg"
                           alt="Box Filter - SciPy convolve2d"
                           className="w-64 h-80 object-cover mb-2"
                         />
@@ -242,7 +242,7 @@ def convolve_naive2(img, kernel):
                       </div>
                       <div className="text-center">
                         <img
-                          src="/02_Box_Filter_-_naive2.jpg"
+                          src="02_Box_Filter_-_naive2.jpg"
                           alt="Box Filter - naive2"
                           className="w-64 h-80 object-cover mb-2"
                         />
@@ -262,7 +262,7 @@ def convolve_naive2(img, kernel):
                       {/* Dx Filter Row */}
                       <div className="text-center">
                         <img
-                          src="/03_Dx_Filter_-_SciPy_convolve2d.jpg"
+                          src="03_Dx_Filter_-_SciPy_convolve2d.jpg"
                           alt="Dx Filter - SciPy convolve2d"
                           className="w-64 h-80 object-cover mb-2"
                         />
@@ -270,7 +270,7 @@ def convolve_naive2(img, kernel):
                       </div>
                       <div className="text-center">
                         <img
-                          src="/04_Dx_Filter_-_naive2.jpg"
+                          src="04_Dx_Filter_-_naive2.jpg"
                           alt="Dx Filter - naive2"
                           className="w-64 h-80 object-cover mb-2"
                         />
@@ -290,7 +290,7 @@ def convolve_naive2(img, kernel):
                       {/* Dy Filter Row */}
                       <div className="text-center">
                         <img
-                          src="/05_Dy_Filter_-_SciPy_convolve2d.jpg"
+                          src="05_Dy_Filter_-_SciPy_convolve2d.jpg"
                           alt="Dy Filter - SciPy convolve2d"
                           className="w-64 h-80 object-cover mb-2"
                         />
@@ -298,7 +298,7 @@ def convolve_naive2(img, kernel):
                       </div>
                       <div className="text-center">
                         <img
-                          src="/06_Dy_Filter_-_naive2.jpg"
+                          src="06_Dy_Filter_-_naive2.jpg"
                           alt="Dy Filter - naive2"
                           className="w-64 h-80 object-cover mb-2"
                         />
@@ -347,7 +347,7 @@ def convolve_naive2(img, kernel):
                   <div className="flex justify-center mb-6">
                     <div className="text-center">
                       <img
-                        src="/07_Cameraman_-_Original.jpg"
+                        src="07_Cameraman_-_Original.jpg"
                         alt="Cameraman - Original"
                         className="w-64 h-64 object-cover mb-2"
                       />
@@ -371,7 +371,7 @@ def convolve_naive2(img, kernel):
                   <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
                     <div className="text-center">
                       <img
-                        src="/08_Dx_filter_-_Cameraman.jpg"
+                        src="08_Dx_filter_-_Cameraman.jpg"
                         alt="Dx filter - Cameraman"
                         className="w-full h-48 object-cover mb-2"
                       />
@@ -379,7 +379,7 @@ def convolve_naive2(img, kernel):
                     </div>
                     <div className="text-center">
                       <img
-                        src="/09_Dy_filter_-_Cameraman.jpg"
+                        src="09_Dy_filter_-_Cameraman.jpg"
                         alt="Dy filter - Cameraman"
                         className="w-full h-48 object-cover mb-2"
                       />
@@ -387,7 +387,7 @@ def convolve_naive2(img, kernel):
                     </div>
                     <div className="text-center">
                       <img
-                        src="/10_Cameraman_-_gradient.jpg"
+                        src="10_Cameraman_-_gradient.jpg"
                         alt="Cameraman - gradient"
                         className="w-full h-48 object-cover mb-2"
                       />
@@ -395,7 +395,7 @@ def convolve_naive2(img, kernel):
                     </div>
                     <div className="text-center">
                       <img
-                        src="/11_Cameraman_-_binarized.jpg"
+                        src="11_Cameraman_-_binarized.jpg"
                         alt="Cameraman - binarized"
                         className="w-full h-48 object-cover mb-2"
                       />
@@ -439,7 +439,7 @@ def convolve_naive2(img, kernel):
                       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
                         <div className="text-center lg:col-start-2">
                           <img
-                            src="/14_dIdx_(DoG_-_CameraMan).jpg"
+                            src="14_dIdx_(DoG_-_CameraMan).jpg"
                             alt="dI/dx (DoG - CameraMan)"
                             className="w-full h-48 object-cover mb-2"
                           />
@@ -447,7 +447,7 @@ def convolve_naive2(img, kernel):
                         </div>
                         <div className="text-center">
                           <img
-                            src="/15_dIdy_(DoG_-_CameraMan).jpg"
+                            src="15_dIdy_(DoG_-_CameraMan).jpg"
                             alt="dI/dy (DoG - CameraMan)"
                             className="w-full h-48 object-cover mb-2"
                           />
@@ -461,7 +461,7 @@ def convolve_naive2(img, kernel):
                       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
                         <div className="text-center lg:col-start-2">
                           <img
-                            src="/11_Cameraman_-_binarized.jpg"
+                            src="11_Cameraman_-_binarized.jpg"
                             alt="Cameraman - binarized"
                             className="w-full h-48 object-cover mb-2"
                           />
@@ -469,7 +469,7 @@ def convolve_naive2(img, kernel):
                         </div>
                         <div className="text-center">
                           <img
-                            src="/16_DoG_Gradient_(binarized).jpg"
+                            src="16_DoG_Gradient_(binarized).jpg"
                             alt="DoG Gradient (binarized)"
                             className="w-full h-48 object-cover mb-2"
                           />
@@ -537,7 +537,7 @@ def convolve_naive2(img, kernel):
                       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
                         <div className="text-center">
                           <img
-                            src="/19_Taj_-_Original.jpg"
+                            src="19_Taj_-_Original.jpg"
                             alt="Taj - Original"
                             className="w-full h-48 object-cover mb-2"
                           />
@@ -545,7 +545,7 @@ def convolve_naive2(img, kernel):
                         </div>
                         <div className="text-center">
                           <img
-                            src="/20_Taj_-_Blurred.jpg"
+                            src="20_Taj_-_Blurred.jpg"
                             alt="Taj - Blurred"
                             className="w-full h-48 object-cover mb-2"
                           />
@@ -553,7 +553,7 @@ def convolve_naive2(img, kernel):
                         </div>
                         <div className="text-center">
                           <img
-                            src="/21_Taj_-_High_Frequency_Magnitude.jpg"
+                            src="21_Taj_-_High_Frequency_Magnitude.jpg"
                             alt="Taj - High Frequency Magnitude"
                             className="w-full h-48 object-cover mb-2"
                           />
@@ -561,7 +561,7 @@ def convolve_naive2(img, kernel):
                         </div>
                         <div className="text-center">
                           <img
-                            src="/22_Taj_-_Sharped_(α10.0).jpg"
+                            src="22_Taj_-_Sharped_(α10.0).jpg"
                             alt="Taj - Sharped (α=10.0)"
                             className="w-full h-48 object-cover mb-2"
                           />
@@ -575,7 +575,7 @@ def convolve_naive2(img, kernel):
                       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
                         <div className="text-center lg:col-start-2">
                           <img
-                            src="/17_Brian_Eiffel_Tower_-_Original.jpg"
+                            src="17_Brian_Eiffel_Tower_-_Original.jpg"
                             alt="Brian Eiffel Tower - Original"
                             className="w-64 h-80 object-cover mb-2"
                           />
@@ -583,7 +583,7 @@ def convolve_naive2(img, kernel):
                         </div>
                         <div className="text-center">
                           <img
-                            src="/18_Brian_Eiffel_Tower_-_Sharpened.jpg"
+                            src="18_Brian_Eiffel_Tower_-_Sharpened.jpg"
                             alt="Brian Eiffel Tower - Sharpened"
                             className="w-64 h-80 object-cover mb-2"
                           />
@@ -615,7 +615,7 @@ def convolve_naive2(img, kernel):
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div className="text-center">
                       <img
-                        src="/23_Derek_(Low)_-_Original.jpg"
+                        src="23_Derek_(Low)_-_Original.jpg"
                         alt="Derek (Low) - Original"
                         className="w-64 h-80 object-cover mb-2 mx-auto"
                       />
@@ -623,7 +623,7 @@ def convolve_naive2(img, kernel):
                     </div>
                     <div className="text-center">
                       <img
-                        src="/24_Nutmeg_(High)_-_Original.jpg"
+                        src="24_Nutmeg_(High)_-_Original.jpg"
                         alt="Nutmeg (High) - Original"
                         className="w-64 h-80 object-cover mb-2 mx-auto"
                       />
@@ -665,7 +665,7 @@ def convolve_naive2(img, kernel):
                       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
                         <div className="text-center">
                           <img
-                            src="/25_Derek_(LP_Source)_-_Aligned.jpg"
+                            src="25_Derek_(LP_Source)_-_Aligned.jpg"
                             alt="Derek (LP Source) - Aligned"
                             className="w-64 h-80 object-cover mb-2 mx-auto"
                           />
@@ -673,7 +673,7 @@ def convolve_naive2(img, kernel):
                         </div>
                         <div className="text-center">
                           <img
-                            src="/30_FFT_log_I.jpg"
+                            src="30_FFT_log_I.jpg"
                             alt="FFT log |I₁|"
                             className="w-64 h-80 object-contain mb-2 mx-auto"
                           />
@@ -684,7 +684,7 @@ def convolve_naive2(img, kernel):
                       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
                         <div className="text-center">
                           <img
-                            src="/26_Nutmeg_(HP_Source)_-_Aligned.jpg"
+                            src="26_Nutmeg_(HP_Source)_-_Aligned.jpg"
                             alt="Nutmeg (HP Source) - Aligned"
                             className="w-64 h-80 object-cover mb-2 mx-auto"
                           />
@@ -692,7 +692,7 @@ def convolve_naive2(img, kernel):
                         </div>
                         <div className="text-center">
                           <img
-                            src="/31_FFT_log_I.jpg"
+                            src="31_FFT_log_I.jpg"
                             alt="FFT log |I₂|"
                             className="w-64 h-80 object-contain mb-2 mx-auto"
                           />
@@ -704,7 +704,7 @@ def convolve_naive2(img, kernel):
                       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
                         <div className="text-center">
                           <img
-                            src="/27_Low-pass(I).jpg"
+                            src="27_Low-pass(I).jpg"
                             alt="Low-pass(I₁)"
                             className="w-64 h-80 object-cover mb-2 mx-auto"
                           />
@@ -712,7 +712,7 @@ def convolve_naive2(img, kernel):
                         </div>
                         <div className="text-center">
                           <img
-                            src="/32_FFT_log_LP(I).jpg"
+                            src="32_FFT_log_LP(I).jpg"
                             alt="FFT log |LP(I₁)|"
                             className="w-64 h-80 object-contain mb-2 mx-auto"
                           />
@@ -723,7 +723,7 @@ def convolve_naive2(img, kernel):
                       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
                         <div className="text-center">
                           <img
-                            src="/28_High-pass(I).jpg"
+                            src="28_High-pass(I).jpg"
                             alt="High-pass(I₂)"
                             className="w-64 h-80 object-cover mb-2 mx-auto"
                           />
@@ -731,7 +731,7 @@ def convolve_naive2(img, kernel):
                         </div>
                         <div className="text-center">
                           <img
-                            src="/33_FFT_log_HP(I).jpg"
+                            src="33_FFT_log_HP(I).jpg"
                             alt="FFT log |HP(I₂)|"
                             className="w-64 h-80 object-contain mb-2 mx-auto"
                           />
@@ -743,7 +743,7 @@ def convolve_naive2(img, kernel):
                       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                         <div className="text-center">
                           <img
-                            src="/29_Hybrid_Derek_+_Nutmeg.jpg"
+                            src="29_Hybrid_Derek_+_Nutmeg.jpg"
                             alt="Hybrid: Derek + Nutmeg"
                             className="w-64 h-80 object-cover mb-2 mx-auto"
                           />
@@ -751,7 +751,7 @@ def convolve_naive2(img, kernel):
                         </div>
                         <div className="text-center">
                           <img
-                            src="/34_FFT_log_Hybrid.jpg"
+                            src="34_FFT_log_Hybrid.jpg"
                             alt="FFT log |Hybrid|"
                             className="w-64 h-80 object-contain mb-2 mx-auto"
                           />
@@ -769,7 +769,7 @@ def convolve_naive2(img, kernel):
                         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                           <div className="text-center">
                             <img
-                              src="/35_Brian_Selfie.jpg"
+                              src="35_Brian_Selfie.jpg"
                               alt="Brian Selfie"
                               className="w-64 h-80 object-cover mb-2 mx-auto"
                             />
@@ -777,7 +777,7 @@ def convolve_naive2(img, kernel):
                           </div>
                           <div className="text-center">
                             <img
-                              src="/36_Dog.jpg"
+                              src="36_Dog.jpg"
                               alt="Dog"
                               className="w-64 h-80 object-cover mb-2 mx-auto"
                             />
@@ -785,7 +785,7 @@ def convolve_naive2(img, kernel):
                           </div>
                           <div className="text-center">
                             <img
-                              src="/37_Hybrid_Brian_Selfie_+_Dog.jpg"
+                              src="37_Hybrid_Brian_Selfie_+_Dog.jpg"
                               alt="Hybrid: Brian Selfie + Dog"
                               className="w-64 h-80 object-cover mb-2 mx-auto"
                             />
@@ -800,7 +800,7 @@ def convolve_naive2(img, kernel):
                         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                           <div className="text-center">
                             <img
-                              src="/38_Kitten.jpg"
+                              src="38_Kitten.jpg"
                               alt="Kitten"
                               className="w-64 h-80 object-cover mb-2 mx-auto"
                             />
@@ -808,7 +808,7 @@ def convolve_naive2(img, kernel):
                           </div>
                           <div className="text-center">
                             <img
-                              src="/39_Puppy.jpg"
+                              src="39_Puppy.jpg"
                               alt="Puppy"
                               className="w-64 h-80 object-cover mb-2 mx-auto"
                             />
@@ -816,7 +816,7 @@ def convolve_naive2(img, kernel):
                           </div>
                           <div className="text-center">
                             <img
-                              src="/40_Hybrid_Kitten_+_Puppy.jpg"
+                              src="40_Hybrid_Kitten_+_Puppy.jpg"
                               alt="Hybrid: Kitten + Puppy"
                               className="w-64 h-80 object-cover mb-2 mx-auto"
                             />
@@ -870,7 +870,7 @@ def convolve_naive2(img, kernel):
                         {/* Row 1: Level 0 */}
                         <div className="text-center">
                           <img
-                            src="/41_Apple_at_level_0.jpg"
+                            src="41_Apple_at_level_0.jpg"
                             alt="Apple at level 0"
                             className="w-full h-48 object-contain mb-2"
                           />
@@ -878,7 +878,7 @@ def convolve_naive2(img, kernel):
                         </div>
                         <div className="text-center">
                           <img
-                            src="/44_Orange_at_level_0.jpg"
+                            src="44_Orange_at_level_0.jpg"
                             alt="Orange at level 0"
                             className="w-full h-48 object-contain mb-2"
                           />
@@ -886,7 +886,7 @@ def convolve_naive2(img, kernel):
                         </div>
                         <div className="text-center">
                           <img
-                            src="/47_Sum_at_level_0.jpg"
+                            src="47_Sum_at_level_0.jpg"
                             alt="Sum at level 0"
                             className="w-full h-48 object-contain mb-2"
                           />
@@ -896,7 +896,7 @@ def convolve_naive2(img, kernel):
                         {/* Row 2: Level 2 */}
                         <div className="text-center">
                           <img
-                            src="/42_Apple_at_level_2.jpg"
+                            src="42_Apple_at_level_2.jpg"
                             alt="Apple at level 2"
                             className="w-full h-48 object-contain mb-2"
                           />
@@ -904,7 +904,7 @@ def convolve_naive2(img, kernel):
                         </div>
                         <div className="text-center">
                           <img
-                            src="/45_Orange_at_level_2.jpg"
+                            src="45_Orange_at_level_2.jpg"
                             alt="Orange at level 2"
                             className="w-full h-48 object-contain mb-2"
                           />
@@ -912,7 +912,7 @@ def convolve_naive2(img, kernel):
                         </div>
                         <div className="text-center">
                           <img
-                            src="/48_Sum_at_level_2.jpg"
+                            src="48_Sum_at_level_2.jpg"
                             alt="Sum at level 2"
                             className="w-full h-48 object-contain mb-2"
                           />
@@ -922,7 +922,7 @@ def convolve_naive2(img, kernel):
                         {/* Row 3: Level 4 */}
                         <div className="text-center">
                           <img
-                            src="/43_Apple_at_level_4.jpg"
+                            src="43_Apple_at_level_4.jpg"
                             alt="Apple at level 4"
                             className="w-full h-48 object-contain mb-2"
                           />
@@ -930,7 +930,7 @@ def convolve_naive2(img, kernel):
                         </div>
                         <div className="text-center">
                           <img
-                            src="/46_Orange_at_level_4.jpg"
+                            src="46_Orange_at_level_4.jpg"
                             alt="Orange at level 4"
                             className="w-full h-48 object-contain mb-2"
                           />
@@ -938,7 +938,7 @@ def convolve_naive2(img, kernel):
                         </div>
                         <div className="text-center">
                           <img
-                            src="/49_Sum_at_level_4.jpg"
+                            src="49_Sum_at_level_4.jpg"
                             alt="Sum at level 4"
                             className="w-full h-48 object-contain mb-2"
                           />
@@ -948,7 +948,7 @@ def convolve_naive2(img, kernel):
                         {/* Row 4: Final Results */}
                         <div className="text-center">
                           <img
-                            src="/50_Apple.jpg"
+                            src="50_Apple.jpg"
                             alt="Apple"
                             className="w-full h-48 object-contain mb-2"
                           />
@@ -956,7 +956,7 @@ def convolve_naive2(img, kernel):
                         </div>
                         <div className="text-center">
                           <img
-                            src="/51_Orange.jpg"
+                            src="51_Orange.jpg"
                             alt="Orange"
                             className="w-full h-48 object-contain mb-2"
                           />
@@ -964,7 +964,7 @@ def convolve_naive2(img, kernel):
                         </div>
                         <div className="text-center">
                           <img
-                            src="/52_Oraple.jpg"
+                            src="52_Oraple.jpg"
                             alt="Oraple"
                             className="w-full h-48 object-contain mb-2"
                           />
@@ -982,7 +982,7 @@ def convolve_naive2(img, kernel):
                         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                           <div className="text-center">
                             <img
-                              src="/38_Kitten.jpg"
+                              src="38_Kitten.jpg"
                               alt="Kitten"
                               className="w-full h-48 object-contain mb-2"
                             />
@@ -990,7 +990,7 @@ def convolve_naive2(img, kernel):
                           </div>
                           <div className="text-center">
                             <img
-                              src="/39_Puppy.jpg"
+                              src="39_Puppy.jpg"
                               alt="Puppy"
                               className="w-full h-48 object-contain mb-2"
                             />
@@ -998,7 +998,7 @@ def convolve_naive2(img, kernel):
                           </div>
                           <div className="text-center">
                             <img
-                              src="/53_Kitpup_Kitten_+_Puppy_Blend.jpg"
+                              src="53_Kitpup_Kitten_+_Puppy_Blend.jpg"
                               alt="Kitpup: Kitten + Puppy Blend"
                               className="w-full h-48 object-contain mb-2"
                             />
@@ -1013,7 +1013,7 @@ def convolve_naive2(img, kernel):
                         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                           <div className="text-center">
                             <img
-                              src="/54_Labubu.jpg"
+                              src="54_Labubu.jpg"
                               alt="Labubu"
                               className="w-full h-48 object-contain mb-2"
                             />
@@ -1021,7 +1021,7 @@ def convolve_naive2(img, kernel):
                           </div>
                           <div className="text-center">
                             <img
-                              src="/38_Kitten.jpg"
+                              src="38_Kitten.jpg"
                               alt="Kitten"
                               className="w-full h-48 object-contain mb-2"
                             />
@@ -1029,7 +1029,7 @@ def convolve_naive2(img, kernel):
                           </div>
                           <div className="text-center">
                             <img
-                              src="/55_Labukitty_Labubu_+_Kitten_Blend.jpg"
+                              src="55_Labukitty_Labubu_+_Kitten_Blend.jpg"
                               alt="Labukitty: Labubu + Kitten Blend"
                               className="w-full h-48 object-contain mb-2"
                             />
